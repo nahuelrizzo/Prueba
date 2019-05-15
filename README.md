@@ -1,3 +1,2 @@
 if>6
-ug
-rtygb
+ver si entra en rama maestro
